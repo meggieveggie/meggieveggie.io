@@ -17,45 +17,33 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Container Solutions
+  title-url: https://container-solutions.com/
+  date: June 2021 - Present
+  subtitle: Financial Accountant 
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: BigQuery
+    - tag: Python
+    - tag: ETL Pipelines 
+    - tag: Financial reporting 
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+- title: Container Solutions
+  title-url: https://container-solutions.com/
+  date: Nov 2020 - June 2021
+  subtitle: Assistant Financial Accountant 
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Scratchpay
+  title-url: https://scratchpay.com/
+  date: Nov 2019 - June 2021
+  subtitle: Full Stack Engineer 
+  tags:
+    - tag: BigQuery
+    - tag: JavaScript
+    - tag: Infrastructure  
+    - tag: Monitoring 
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
-  timeline-side: left
+- title: Association of Chartered Certified Accountants 
+  title-url: https://www.accaglobal.com/

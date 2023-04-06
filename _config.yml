@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Neumorphism
+title: meggieveggie.io
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
@@ -11,20 +11,18 @@ baseurl: "/"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Neumorphism
+username: Megan
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Jekyll Theme
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: megan.venter@icloud.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: longpdo
-codepen_username: exampleUser
-dev_username: exampleUser
-linkedin_username: exampleUser
-twitter_username: exampleUser
+github_username: meggieveggie
+linkedin_username: Megan Venter ACCA 
+twitter_username: meggieveggy
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -34,7 +32,8 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: An Association of Chartered Certified Accountants (ACCA) Member, I have a deep understanding of the accounting profession and a passion for staying up-to-date with the latest accounting standards. However, I also love a good challenge and have pivoted my career towards a more technological role. I've been focused on understanding the full range of technologies used in everyday applications, with a particular emphasis on data, both real-time and static. I find it incredibly satisfying to use my skills to help organizations make data-driven decisions that improve their bottom line. I'm always eager to learn new things and stay ahead of the curve in my field. As such, I'm constantly exploring new technologies, frameworks, and tools that can help me do my job more effectively. I'm excited to see how the worlds of accounting and technology continue to intersect and evolve, and I'm committed to staying at the forefront of these changes. If you're looking for a detail-oriented and tech-savvy professional who can help take your organization to the next level, please don't hesitate to reach out. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+
 
 # SKILLS SECTION
 # show_skills_card:
@@ -53,7 +52,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://docs.google.com/document/d/19W41guIYuIGRF32ojqpId76mv5F8r8ov/edit?usp=sharing&ouid=100009070730253495476&rtpof=true&sd=true
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -69,9 +68,9 @@ projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: False
 # os_projects_title: The will be displayed as the title of your open source projects
-os_projects_title: Open Source Projects
+# os_projects_title: Open Source Projects
 
 # CONTACT SECTION
 # show_contact_card:
@@ -81,12 +80,12 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: If you have any questions, comments, or just want to say hello, feel free to reach out to me! You can also find me on social media by following the links in the footer of this page. Thanks for visiting! Thanks If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: meggieveggie/meggieveggie.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.

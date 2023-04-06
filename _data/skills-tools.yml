@@ -6,31 +6,19 @@
 #   weight: 5
 
 - name: Git
-  weight: 5
-
-- name: Bash
   weight: 3
 
-- name: Scrum
+- name: Docker 
   weight: 3
 
-- name: Travis CI
-  weight: 1
-
-- name: Jenkins
-  weight: 1
-
-- name: Chrome DevTools
+- name: Ansible  
   weight: 2
 
-- name: npm
-  weight: 2
-
-- name: gulp
-  weight: 4
-
-- name: VS Code
+- name: Terraform   
   weight: 3
 
-- name: Postman
-  weight: 4
+- name: Prometheus   
+  weight: 3
+
+- name: Grafana   
+  weight: 3
